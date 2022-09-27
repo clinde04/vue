@@ -5,6 +5,7 @@
   "main": "babel.config.js",
   "scripts": {
     "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,10 +26,9 @@
     "babel-loader": "^8.2.5",
     "core-js": "^3.25.3",
     "jquery": "^3.6.1",
-    "netlify-cli": "^12.0.0",
     "node-sass": "^7.0.3",
     "sass-loader": "^13.0.2",
     "typewriter-effect": "^2.19.0",
-    "vue": "^3.2.39"
+    "vue": "^2.7.10"
   }
 }
