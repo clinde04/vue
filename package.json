@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/clinde04/vue#readme",
   "dependencies": {
+    "@vue/compiler-sfc": "^3.2.39",
     "jquery": "^3.6.1",
     "vue": "^3.2.39"
   }
