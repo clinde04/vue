@@ -14,7 +14,7 @@
     }
   },
   "about": {
-    "bio": "I am a highschool student who loves to make small projects and learn new things. I am currently learning Python, Java, and simple web design concepts. i have two pets. A dog named Sadie and a cat named Toby.",
+    "bio": "I am a highschool student who loves to make small projects and learn new things. I am currently learning Python, Java, and simple web design concepts. I have two pets. A dog named Sadie and a cat named Toby.",
     "facts": [
       { "name": "Hometown", "value": "Janesville, WI" },
       { "name": "Favorite IDE", "value": "Visual Studio Code" },
